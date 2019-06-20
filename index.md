@@ -14,10 +14,10 @@
 
 ## Education
 ### Georgia Institute of Technology
-    _Master of Science in Analytics_  
-    - January 2019 – May 2021  
-    - GPA: 4.00/4.00  
-    - Computational Data Analytics Track  
+  _Master of Science in Analytics_  
+  - January 2019 – May 2021  
+  - GPA: 4.00/4.00  
+  - Computational Data Analytics Track  
 
 ### University of Illinois at Urbana-Champaign
 _Bachelor of Science in Statistics and Minor in Computer Science_
