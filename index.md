@@ -2,12 +2,12 @@
 
 ### Classification
 - [Decision Tree](https://github.com/ryan-k-miller/Machine-Learning-Algorithms/blob/master/Decision_Tree.ipynb)
-- [Random Forest](https://github.com/ryan-k-miller/Machine-Learning-Algorithms/blob/master/Random_Forest_Classifier.ipynb)
 - [Logistic Regression](https://github.com/ryan-k-miller/Machine-Learning-Algorithms/blob/master/LogisticRegression.py)
 - [Neural Network](https://github.com/ryan-k-miller/Machine-Learning-Algorithms/blob/master/Neural%20Network/NeuralNetwork.py)
+- [Random Forest](https://github.com/ryan-k-miller/Machine-Learning-Algorithms/blob/master/Random_Forest_Classifier.ipynb)
 ### Clustering
-- [K-Means](https://github.com/ryan-k-miller/Machine-Learning-Algorithms/blob/master/K_Means.ipynb)
 - [Gaussian Mixture Model](https://github.com/ryan-k-miller/Machine-Learning-Algorithms/blob/master/Gaussian_Mixture_Model.ipynb)
+- [K-Means](https://github.com/ryan-k-miller/Machine-Learning-Algorithms/blob/master/K_Means.ipynb)
 
 ---
 
