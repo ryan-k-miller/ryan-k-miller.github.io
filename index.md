@@ -1,5 +1,3 @@
-#
-
 ## [Popular Machine Learning Algorithm Implementations](https://github.com/ryan-k-miller/Machine-Learning-Algorithms)
 
 - [Decision Tree](https://github.com/ryan-k-miller/Machine-Learning-Algorithms/blob/master/Decision_Tree.ipynb)
