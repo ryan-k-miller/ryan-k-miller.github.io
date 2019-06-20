@@ -12,6 +12,21 @@
 
 ---
 
+## Education
+### Georgia Institute of Technology						      	          January 2019 – May 2021
+- Master of Science in Analytics
+-	GPA: 4.00/4.00
+-	Computational Data Analytics Track
+
+### University of Illinois at Urbana-Champaign 				                August 2015 - December 2018
+- Bachelor of Science in Statistics and Minor in Computer Science                         				
+-	GPA: 3.53/4.00
+-	Certificate in Data Science
+-	Dean’s List: Fall 2017, Fall 2018
+
+
+---
+
 ## Category Name 2
 
 [Project 1 Title](/sample_page)
