@@ -12,7 +12,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](../Machine-Learning-Algorithms)
+[Project 3 Title](https://github.com/ryan-k-miller/Machine-Learning-Algorithms)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
