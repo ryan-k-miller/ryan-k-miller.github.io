@@ -1,4 +1,4 @@
-## Popular Machine Learning Algorithm Implementations
+## [Popular Machine Learning Algorithm Implementations](https://github.com/ryan-k-miller/Machine-Learning-Algorithms)
 
 - [Decision Tree](https://github.com/ryan-k-miller/Machine-Learning-Algorithms/blob/master/Decision_Tree.ipynb)
 - [Random Forest](https://github.com/ryan-k-miller/Machine-Learning-Algorithms/blob/master/Random_Forest_Classifier.ipynb)
@@ -9,7 +9,7 @@
 
 ---
 
-## Category Name 1 
+## Category Name 2
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
