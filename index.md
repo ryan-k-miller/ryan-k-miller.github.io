@@ -24,7 +24,7 @@ _Bachelor of Science in Statistics and Minor in Computer Science_
 - August 2015 - December 2018			
 - GPA: 3.53/4.00
 - Certificate in Data Science
-- Dean’s List: Fall 2017, Fall 2018, Fall 2019
+- Dean’s List: Fall 2017, Fall 2018
 
 ---
 
