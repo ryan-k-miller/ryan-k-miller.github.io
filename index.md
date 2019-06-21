@@ -5,7 +5,7 @@
 4. [Interests](#interests)  
 5. [Data Science Projects](#dsp)  
 
-<a name="ml"/></a>
+<a name="ml"/>
 ## [Popular Machine Learning Algorithm Implementations](https://github.com/ryan-k-miller/Machine-Learning-Algorithms)
 ### Classification
 - [Decision Tree](https://github.com/ryan-k-miller/Machine-Learning-Algorithms/blob/master/Decision_Tree.ipynb)
@@ -17,7 +17,7 @@
 - [K-Means](https://github.com/ryan-k-miller/Machine-Learning-Algorithms/blob/master/K_Means.ipynb)
 
 ---
-<a name="edu"/></a>
+<a name="edu"/>
 ## Education
 ### Georgia Institute of Technology
 _Master of Science in Analytics_  
@@ -32,7 +32,7 @@ _Bachelor of Science in Statistics and Minor in Computer Science_
 - Dean’s List: Fall 2017, Fall 2018
 
 ---
-<a name="exp"/> </a>
+<a name="exp"/>
 ## EXPERIENCE
 ### SWC Technology Partners
 _Data Analyst Intern_ 
@@ -60,7 +60,7 @@ _Data Analyst Intern_
 - Developed SQL queries to pull data for creation of Quarterly Business Review reports
 
 ---
-<a name="interests"/></a>
+<a name="interests"/>
 ## Interests
 ### Professional
 - Deep Learning Applications (Computer Vision and NLP)
@@ -72,7 +72,7 @@ _Data Analyst Intern_
 - Basketball
 
 ---
-<a name="dsp"/></a>
+<a name="dsp"/>
 ## Data Science Projects
 
 [Project 1 Title](/sample_page)
