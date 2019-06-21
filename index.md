@@ -1,24 +1,29 @@
-## [Popular Machine Learning Algorithm Implementations](https://github.com/ryan-k-miller/Machine-Learning-Algorithms)
+## Table of Contents
+1. [Popular Machine Learning Algorithm Implementations](#ml)  
+2. [Education](#edu)  
+3. [Experience](#exp)  
+4. [Interests](#interests)  
+5. [Data Science Projects](#dsp)  
 
+<a name="ml"/></a>
+## [Popular Machine Learning Algorithm Implementations](https://github.com/ryan-k-miller/Machine-Learning-Algorithms)
 ### Classification
 - [Decision Tree](https://github.com/ryan-k-miller/Machine-Learning-Algorithms/blob/master/Decision_Tree.ipynb)
 - [Logistic Regression](https://github.com/ryan-k-miller/Machine-Learning-Algorithms/blob/master/LogisticRegression.py)
 - [Neural Network](https://github.com/ryan-k-miller/Machine-Learning-Algorithms/blob/master/Neural%20Network/NeuralNetwork.py)
 - [Random Forest](https://github.com/ryan-k-miller/Machine-Learning-Algorithms/blob/master/Random_Forest_Classifier.ipynb)  
-  
 ### Clustering
 - [Gaussian Mixture Model](https://github.com/ryan-k-miller/Machine-Learning-Algorithms/blob/master/Gaussian_Mixture_Model.ipynb)
 - [K-Means](https://github.com/ryan-k-miller/Machine-Learning-Algorithms/blob/master/K_Means.ipynb)
 
 ---
-
+<a name="edu"/></a>
 ## Education
 ### Georgia Institute of Technology
 _Master of Science in Analytics_  
 - January 2019 – May 2021  
 - GPA: 4.00/4.00  
 - Computational Data Analytics Track  
-
 ### University of Illinois at Urbana-Champaign
 _Bachelor of Science in Statistics and Minor in Computer Science_
 - August 2015 - December 2018			
@@ -27,7 +32,7 @@ _Bachelor of Science in Statistics and Minor in Computer Science_
 - Dean’s List: Fall 2017, Fall 2018
 
 ---
-
+<a name="exp"/> </a>
 ## EXPERIENCE
 ### SWC Technology Partners
 _Data Analyst Intern_ 
@@ -35,21 +40,18 @@ _Data Analyst Intern_
 - Trained a boosted decision tree model in Azure Machine Learning Studio to predict project estimate accuracy
 - Identified actionable insights within the data using R to identify opportunities for project improvement
 - Reconstructed queries using new graph database feature of SQL Server to shave run-time down by 20%
-
 ### University of Illinois System – Business Solutions and Support
 _Data Analyst Intern_
 - February 2018 - May 2018
 - Visualized data in Tableau to help identify high volume, low-priority tasks for delegation
 - Developed Macros in Microsoft Excel to efficiently cleanse and coalesce multiple sources of data
 - Created Pivot Tables in Excel to clearly display department performance metrics
-
 ### Expeditors International
 _Data Analyst Intern_
 - June 2017 - August 2017              							            
 - Reduced work by an estimated 5,000 hours per year for Midwest Region employees 
 - Created Macros in Microsoft Excel for the Midwest Region to automate day-to-day manual processes
 - Designed and built dashboards for managers of the company to monitor key performance metrics
-	
 ### Expeditors International
 _Data Analyst Intern_
 - June 2016 - August 2016
@@ -58,7 +60,19 @@ _Data Analyst Intern_
 - Developed SQL queries to pull data for creation of Quarterly Business Review reports
 
 ---
+<a name="interests"/></a>
+## Interests
+### Professional
+- Deep Learning Applications (Computer Vision and NLP)
+- Learning
+### Personal
+- Surfing
+- Traveling
+- Exercising
+- Basketball
 
+---
+<a name="dsp"/></a>
 ## Data Science Projects
 
 [Project 1 Title](/sample_page)
