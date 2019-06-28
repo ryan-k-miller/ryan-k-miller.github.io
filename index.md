@@ -7,10 +7,13 @@
 
 <a name="ml"/>
 ## [Popular Machine Learning Algorithm Implementations](https://github.com/ryan-k-miller/Machine-Learning-Algorithms)
+
+### Deep Learning
+- [Neural Network](https://github.com/ryan-k-miller/Machine-Learning-Algorithms/blob/master/Neural%20Network/NeuralNetwork.py)
+
 ### Classification
 - [Decision Tree](https://github.com/ryan-k-miller/Machine-Learning-Algorithms/blob/master/Decision_Tree.ipynb)
 - [Logistic Regression](https://github.com/ryan-k-miller/Machine-Learning-Algorithms/blob/master/LogisticRegression.py)
-- [Neural Network](https://github.com/ryan-k-miller/Machine-Learning-Algorithms/blob/master/Neural%20Network/NeuralNetwork.py)
 - [Random Forest](https://github.com/ryan-k-miller/Machine-Learning-Algorithms/blob/master/Random_Forest_Classifier)
 
 ### Clustering
