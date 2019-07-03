@@ -8,7 +8,7 @@
 ## [Popular Machine Learning Algorithm Implementations](https://github.com/ryan-k-miller/Machine-Learning-Algorithms)
 
 ### Deep Learning
-- [Neural Network](https://github.com/ryan-k-miller/Machine-Learning-Algorithms/blob/master/Neural%20Network/NeuralNetwork.py)
+- [Artificial Neural Network](https://github.com/ryan-k-miller/Machine-Learning-Algorithms/blob/master/Neural%20Network/NeuralNetwork.py)
 
 ### Classification
 - [Decision Tree](https://github.com/ryan-k-miller/Machine-Learning-Algorithms/blob/master/Decision_Tree.ipynb)
