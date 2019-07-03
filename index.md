@@ -24,7 +24,7 @@
 ## Education
 ### Georgia Institute of Technology
 _Master of Science in Analytics_  
-- January 2019 – May 2021  
+- January 2019 – December 2020  
 - GPA: 4.00/4.00  
 - Computational Data Analytics Track  
 
