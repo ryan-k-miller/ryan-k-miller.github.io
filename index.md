@@ -2,8 +2,7 @@
 1. [Popular Machine Learning Algorithm Implementations](#ml)  
 2. [Education](#edu)  
 3. [Experience](#exp)  
-4. [Interests](#interests)  
-5. [Data Science Projects](#dsp)  
+4. [Data Science Projects](#dsp)  
 
 <a name="ml"/>
 ## [Popular Machine Learning Algorithm Implementations](https://github.com/ryan-k-miller/Machine-Learning-Algorithms)
@@ -36,6 +35,12 @@ _Bachelor of Science in Statistics and Minor in Computer Science_
 - Certificate in Data Science
 - Dean’s List: Fall 2017, Fall 2018
 
+### Coursera - deeplearning.ai
+_Deep Learning Specialization_
+- Deep Learning and Neural Networks
+- Improving Deep Neural Networks: Hyperparameter tuning, Regularization, and Optimization
+- Structuring Machine Learning Projects
+
 ---
 <a name="exp"/>
 ## EXPERIENCE
@@ -66,19 +71,6 @@ _Data Analyst Intern_
 - Analyzed survey data to discover actionable insights for improving employee satisfaction, pride, and productivity 
 - Presented useful insights from data analysis to Advanced Analytics department
 - Developed SQL queries to pull data for creation of Quarterly Business Review reports
-
----
-<a name="interests"/>
-## Interests
-### Professional
-- Deep Learning Applications (Computer Vision and NLP)
-- Learning
-
-### Personal
-- Surfing
-- Traveling
-- Exercising
-- Basketball
 
 ---
 <a name="dsp"/>
