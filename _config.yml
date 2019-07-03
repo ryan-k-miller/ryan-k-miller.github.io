@@ -1,8 +1,7 @@
 title: Ryan Miller
 logo: "/images/head_shot_smile.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Hello World! My name is Ryan, and I am studying Data Science in Georgia Tech's Master of Science in Analytics program.
-  I am interested in Deep Learning applications in Image Recognition and Computer Vision.  
+  Hello World! I am a grad student in Georgia Tech's Master of Science in Analytics program, and I am interested in Deep Learning applications in Image Recognition and Computer Vision.  
   <br><br>
   <a href="https://www.linkedin.com/in/ryan-miller-93a588139/">View My LinkedIn Profile</a> 
 theme: jekyll-theme-minimal
