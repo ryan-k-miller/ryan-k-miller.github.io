@@ -9,16 +9,7 @@
 ## Data Science Projects
 
 [Popular Machine Learning Algorithm Implementations](/ml)
-
----
 [Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](https://github.com/ryan-k-miller/Machine-Learning-Algorithms)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
-
 
 ---
 <a name="edu"/>
