@@ -38,10 +38,9 @@ _Bachelor of Science in Statistics and Minor in Computer Science_
 
 ### Coursera - deeplearning.ai
 _Deep Learning Specialization_
-- [Deep Learning and Neural Networks](https://www.coursera.org/account/accomplishments/verify/4NX63CCTK5QD)
-- [Improving Deep Neural Networks: Hyperparameter tuning, Regularization, and Optimization](https://www.coursera.org/account/accomplishments/verify/W6ZPW5Q4P2SC)
-- [Structuring Machine Learning Projects](
-https://www.coursera.org/account/accomplishments/verify/5NLLQPEYNZ4X)
+- [Deep Learning and Neural Networks](https://www.coursera.org/account/accomplishments/certificate/4NX63CCTK5QD)
+- [Improving Deep Neural Networks: Hyperparameter tuning, Regularization, and Optimization](https://www.coursera.org/account/accomplishments/certificate/W6ZPW5Q4P2SC)
+- [Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/certificate/5NLLQPEYNZ4X)
 
 ---
 <a name="exp"/>
