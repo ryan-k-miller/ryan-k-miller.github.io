@@ -1,23 +1,25 @@
 ## Table of Contents
-1. [Popular Machine Learning Algorithm Implementations](#ml)  
+
+1. [Data Science Projects](#dsp)  
 2. [Education](#edu)  
 3. [Experience](#exp)  
-4. [Data Science Projects](#dsp)  
 
-<a name="ml"/>
-## [Popular Machine Learning Algorithm Implementations](https://github.com/ryan-k-miller/Machine-Learning-Algorithms)
+---
+<a name="dsp"/>
+## Data Science Projects
 
-### Deep Learning
-- [Artificial Neural Network](https://github.com/ryan-k-miller/Machine-Learning-Algorithms/blob/master/Neural%20Network/NeuralNetwork.py)
+[Popular Machine Learning Algorithm Implementations](/ml)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-### Classification
-- [Decision Tree](https://github.com/ryan-k-miller/Machine-Learning-Algorithms/blob/master/Decision_Tree.ipynb)
-- [Logistic Regression](https://github.com/ryan-k-miller/Machine-Learning-Algorithms/blob/master/LogisticRegression.py)
-- [Random Forest](https://github.com/ryan-k-miller/Machine-Learning-Algorithms/blob/master/Random_Forest_Classifier)
+---
+[Project 2 Title](/pdf/sample_presentation.pdf)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-### Clustering
-- [Gaussian Mixture Model](https://github.com/ryan-k-miller/Machine-Learning-Algorithms/blob/master/Gaussian_Mixture_Model.ipynb)
-- [K-Means](https://github.com/ryan-k-miller/Machine-Learning-Algorithms/blob/master/K_Means.ipynb)
+---
+[Project 3 Title](https://github.com/ryan-k-miller/Machine-Learning-Algorithms)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+
 
 ---
 <a name="edu"/>
@@ -72,23 +74,6 @@ _Data Analyst Intern_
 - Analyzed survey data to discover actionable insights for improving employee satisfaction, pride, and productivity 
 - Presented useful insights from data analysis to Advanced Analytics department
 - Developed SQL queries to pull data for creation of Quarterly Business Review reports
-
----
-<a name="dsp"/>
-## Data Science Projects
-
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](https://github.com/ryan-k-miller/Machine-Learning-Algorithms)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
 
 
 ---
