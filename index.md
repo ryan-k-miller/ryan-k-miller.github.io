@@ -8,7 +8,7 @@
 <a name="dsp"/>
 ## Data Science Projects
 
-[Popular Machine Learning Algorithm Implementations](/ml)
+[Popular Machine Learning Algorithm Implementations](/ml)  
 [Project 2 Title](/pdf/sample_presentation.pdf)
 
 ---
