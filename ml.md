@@ -17,4 +17,4 @@ The classification implementations include a comparison to their sklearn equival
 The clustering algorithms are used to segment the RGB values of an image.  
 The artificial neural network is trained and tested on the MNIST dataset.  
 
-For the Jupyter Notebooks, you can see the example and the comparison here on Github. For the python scripts, you can run the examples by downloading the scripts and running them in your preferred IDE or through the command line.
+For the Jupyter Notebooks, you can see the comparison here on Github. For the python scripts, you can download and them in your preferred IDE or through the command line.
