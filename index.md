@@ -9,7 +9,7 @@
 ## Data Science Projects
 
 - [Popular Machine Learning Algorithm Implementations](/ml)  
-- [Project 2 Title](/pdf/sample_presentation.pdf)
+- [Using PITCHf/x Data to Visualize Pitches and Predict Strikes](/pdf/team79poster.pdf)
 
 ---
 <a name="edu"/>
