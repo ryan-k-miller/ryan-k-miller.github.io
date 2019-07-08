@@ -13,8 +13,10 @@ Implementations of popular machine learning algorithms using Python.
 - [Gaussian Mixture Model](https://github.com/ryan-k-miller/Machine-Learning-Algorithms/blob/master/Gaussian_Mixture_Model.ipynb)  
 - [K-Means](https://github.com/ryan-k-miller/Machine-Learning-Algorithms/blob/master/K_Means.ipynb)  
   
-The classification implementations include a comparison to their sklearn equivalents using the Pima Indians Diabetes dataset.   
+The classification implementations include a comparison to their sklearn equivalents using the Pima Indians Diabetes dataset.    
+  
 The clustering algorithms are used to segment the RGB values of an image.  
+  
 The artificial neural network is trained and tested on the MNIST dataset.  
 
-For the Jupyter Notebooks, you can see the comparison here on Github. For the python scripts, you can download and run them in your preferred IDE or through the command line.
+For the Jupyter Notebooks, you can see the comparison by clicking on the respective algorithm's link and looking at the notebook. For the python scripts, you can download and run them in your preferred IDE or through the command line.
