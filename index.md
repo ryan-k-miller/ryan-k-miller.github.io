@@ -29,7 +29,7 @@ _Bachelor of Science in Statistics and Minor in Computer Science_
 
 ### Coursera - deeplearning.ai
 _Deep Learning Specialization_
-- [Deep Learning and Neural Networks](/pdf/1. Deep Learning and Neural Networks.pdf)
+- [Neural Networks and Deep Learning](/pdf/1. Neural Networks and Deep Learning.pdf)
 - [Improving Deep Neural Networks: Hyperparameter tuning, Regularization, and Optimization](/pdf/2. Improving Deep Neural Networks.pdf)
 - [Structuring Machine Learning Projects](/pdf/3. Structuring Machine Learning Projects.pdf)
 
