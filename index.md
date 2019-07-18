@@ -40,7 +40,7 @@ _Deep Learning Specialization_
 _Associate Business Intelligence Developer_    
 - June 2019- Present
 -	Developing and maintaining reports in Style Studio with backend SQL queries for regional KPI monitoring
--	Automated extraction and manipulation of data from over 100 different files using Power Query and VBA
+-	Automate extraction and manipulation of data from over 100 different files and 1.25 million rows of data using Power Query and VBA
 -	Intelligently display data by creating dashboards in Power BI
 
 ### SWC Technology Partners
