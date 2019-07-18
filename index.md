@@ -36,6 +36,13 @@ _Deep Learning Specialization_
 ---
 <a name="exp"/>
 ## EXPERIENCE
+### Expeditors International            							            
+_Associate Business Intelligence Developer_    
+- June 2019- Present
+-	Developing and maintaining reports in Style Studio with backend SQL queries for regional KPI monitoring
+-	Automated extraction and manipulation of data from over 100 different files using Power Query and VBA
+-	Intelligently display data by creating dashboards in Power BI
+
 ### SWC Technology Partners
 _Data Analyst Intern_ 
 - June 2018 - August 2018
@@ -43,26 +50,19 @@ _Data Analyst Intern_
 - Identified actionable insights within the data using R to identify opportunities for project improvement
 - Reconstructed queries using new graph database feature of SQL Server to shave run-time down by 20%
 
-### University of Illinois System – Business Solutions and Support
-_Data Analyst Intern_
-- February 2018 - May 2018
-- Visualized data in Tableau to help identify high volume, low-priority tasks for delegation
-- Developed Macros in Microsoft Excel to efficiently cleanse and coalesce multiple sources of data
-- Created Pivot Tables in Excel to clearly display department performance metrics
+---
+## SKILLS
+### Machine Learning
+-	Classification: Decision Tree, Feed-Forward Neural Network, Logistic Regression, and Random Forest
+-	Regression: Lasso Regression, Linear Regression, and Ridge Regression
+-	Clustering: Gaussian Mixture Model, and K-Means
 
-### Expeditors International
-_Data Analyst Intern_
-- June 2017 - August 2017              							            
-- Reduced work by an estimated 5,000 hours per year for Midwest Region employees 
-- Created Macros in Microsoft Excel for the Midwest Region to automate day-to-day manual processes
-- Designed and built dashboards for managers of the company to monitor key performance metrics
+### Technology
+-	Platforms: Excel, Git, Github, Jupyter, Power BI, RStudio, SQL Server Management Studio
+-	Languages: Python (Matplotlib, NumPy, Pandas, Scikit-learn, SciPy), R, SQL, and VBA
 
-### Expeditors International
-_Data Analyst Intern_
-- June 2016 - August 2016
-- Analyzed survey data to discover actionable insights for improving employee satisfaction, pride, and productivity 
-- Presented useful insights from data analysis to Advanced Analytics department
-- Developed SQL queries to pull data for creation of Quarterly Business Review reports
+### Interpersonal
+-	Soft Skills: Consulting with clients, presenting findings to both technical and non-technical audiences, balancing multiple projects, analyzing problems and developing solutions, and handling pressure
 
 
 ---
