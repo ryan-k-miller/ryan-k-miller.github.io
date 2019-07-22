@@ -3,6 +3,6 @@ logo: "/images/head_shot_smile.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Hello! I am a grad student in Georgia Tech's Master of Science in Analytics program and am interested in applying theoretical solutions to real world problems.  
   <br><br>
-  <a href="www.linkedin.com/in/ryan-kp-miller">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/ryan-kp-miller">View My LinkedIn Profile</a> 
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
