@@ -33,6 +33,9 @@ _Deep Learning Specialization_
 - [Improving Deep Neural Networks: Hyperparameter tuning, Regularization, and Optimization](/pdf/2. Improving Deep Neural Networks.pdf)
 - [Structuring Machine Learning Projects](/pdf/3. Structuring Machine Learning Projects.pdf)
 
+### Performance Excellence
+- [Lean Six Sigma Yellow Belt](/pdf/Yellow Belt Lean Six Sigma.pdf)
+
 ---
 <a name="exp"/>
 ## EXPERIENCE
