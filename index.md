@@ -64,7 +64,7 @@ _Data Analyst Intern_
 
 ### Technology
 -	Platforms: Excel, Git, Github, Jupyter, Power BI, RStudio, SQL Server Management Studio
--	Languages: Python (Matplotlib, NumPy, Pandas, Scikit-learn, SciPy), R, SQL, and VBA
+-	Languages: Python (Matplotlib, NumPy, Pandas, Scikit-learn, Tensorflow.Keras), SQL, and VBA
 
 ### Interpersonal
 -	Soft Skills: Consulting with clients, presenting findings to both technical and non-technical audiences, balancing multiple projects, analyzing problems and developing solutions, and handling pressure
