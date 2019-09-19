@@ -42,9 +42,10 @@ _Deep Learning Specialization_
 ### Expeditors International            							            
 _Associate Business Intelligence Developer_    
 - June 2019- Present
--	Developing reports in Style Studio with backend IBM DB2 and SQL Server queries for regional KPI monitoring
--	Automating ETL of data from over 100 different files and 1.25 million rows of data using Power Query and VBA
--	Intelligently displaying data by creating dashboards in Power BI
+-	Developing reports in Style Studio with backend DB2 and SQL Server queries for regional KPI monitoring
+-	Automating ETL process using Python to allow for seamless updates to Power BI dashboards, reducing manual work for data analysts by over 10 hours a month
+-	Extracting and cleansing data from over 100 different files with 1.25 million rows of data using Power Query
+-	Creating interactive dashboards in Power BI for KPI monitoring, reducing the need for manual correspondence with customers
 
 
 ### SWC Technology Partners
