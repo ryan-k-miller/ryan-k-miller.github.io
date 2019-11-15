@@ -10,8 +10,8 @@
 
 - [Popular Machine Learning Algorithm Implementations](/ml)  
 - [Using PITCHf/x Data to Visualize Pitches and Predict Strikes](/pdf/Baseball Strike Prediction Poster.pdf)
-- Automated Stock Trader using Machine Learning
 - SQL Query Generator
+- Automated Stock Trader using Machine Learning
 
 ---
 <a name="edu"/>
@@ -42,9 +42,9 @@ _Deep Learning Specialization_
 _Associate Business Intelligence Developer_    
 - June 2019- Present
 - Developed SQL Query Generator tool using Python's pandas and dash packages reducing the time to write simple to medium-complexity SQL queries by 80-95%  
--	Automating ETL process using Python to allow for seamless updates to Power BI dashboards, reducing manual work for data analysts by over 10 hours a month
+-	Automated ETL process using Python to allow for seamless updates to Power BI dashboards, reducing manual work for data analysts by over 10 hours a month
+- Automated data preparation and separation using both Python and Excel's Power and VBA for multiple departments, removing dozens of hours of work a month
 -	Developing reports in Style Studio with backend DB2 and SQL Server queries for regional KPI monitoring
--	Extracting and cleansing data from over 100 different files with 1.25 million rows of data using Excel Power Query and VBA
 -	Creating interactive dashboards in Power BI for KPI monitoring, reducing the need for manual correspondence with customers
 
 ### SWC Technology Partners
@@ -63,7 +63,7 @@ _Data Analyst Intern_
 - Python (Dash, Matplotlib, NumPy, Pandas, Scikit-learn, Tensorflow.Keras), SQL, and VBA  
 
 ### Software:
--  Azure Machine Learning Studio, Command Prompt, Excel, Git and GitHub, Jupyter Notebooks, Power BI  
+-  Azure Machine Learning Studio, Command Prompt, Excel (Power Query, VBA), Git and GitHub, Jupyter Notebooks, Power BI  
 
 ### Interpersonal:
 - Consulting with clients, presenting findings to both technical and non-technical audiences, balancing multiple projects, analyzing problems and developing solutions
