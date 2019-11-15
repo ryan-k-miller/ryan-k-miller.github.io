@@ -56,10 +56,14 @@ _Data Analyst Intern_
 
 ---
 ## SKILLS
-- *Machine Learning Algorithms*: Bagged Ensemble, Neural Network (DNN, CNN), Decision Tree, Gaussian Mixture Model (Expectation Maximization), K-Means, Regression (Lasso, Linear, Logistic, Ridge), Random Forest
-- *Languages*: Python (Dash, Matplotlib, NumPy, Pandas, Scikit-learn, Tensorflow.Keras), SQL, and VBA
-- *Software*: Azure Machine Learning Studio, Command Prompt, Excel, Git and GitHub, Jupyter Notebooks, Power BI
-- *Interpersonal*: Consulting with clients, presenting findings to both technical and non-technical audiences, balancing multiple projects, analyzing problems and developing solutions
+### Machine Learning Algorithms:
+- Bagged Ensemble, Neural Network (DNN, CNN), Decision Tree, Gaussian Mixture Model (Expectation Maximization), K-Means, Regression (Lasso, Linear, Logistic, Ridge), Random Forest
+### Languages:
+- Python (Dash, Matplotlib, NumPy, Pandas, Scikit-learn, Tensorflow.Keras), SQL, and VBA
+### Software:
+-  Azure Machine Learning Studio, Command Prompt, Excel, Git and GitHub, Jupyter Notebooks, Power BI
+### Interpersonal:
+- Consulting with clients, presenting findings to both technical and non-technical audiences, balancing multiple projects, analyzing problems and developing solutions
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
