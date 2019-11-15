@@ -14,7 +14,9 @@ Implementations of popular machine learning algorithms using Python.
 - [K-Means](https://github.com/ryan-k-miller/Machine-Learning-Algorithms/blob/master/K_Means.ipynb)  
 
 ### Regression
+- [Decision Tree](https://github.com/ryan-kp-miller/Machine-Learning-Algorithms/blob/master/DecisionTreeRegressor/DTLearner.py)  
 - [Linear Regression](https://github.com/ryan-k-miller/Machine-Learning-Algorithms/blob/master/LinearRegression.ipynb)
+- [Random Decision Tree](https://github.com/ryan-kp-miller/Machine-Learning-Algorithms/blob/master/DecisionTreeRegressor/RTLearner.py)  
   
 The artificial neural network is trained and tested on the MNIST dataset.   
 
@@ -25,4 +27,3 @@ The clustering implementations are used to segment the RGB values of an image.
 The regression algorithm is trained on sklearn's diabetes dataset.
 
 For the Jupyter Notebooks, you can see the comparison by clicking on the respective algorithm's link and looking at the notebook. For the python scripts, you can download and run them in your command line.
-
