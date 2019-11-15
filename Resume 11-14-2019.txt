@@ -1,0 +1,42 @@
+Ryan K. Miller
+(847) 254-8732 • ryan.kp.miller@gmail.com • https://www.linkedin.com/in/ryan-miller-93a588139/
+https://ryan-k-miller.github.io/
+		
+
+
+EDUCATION
+   Georgia Institute of Technology						             January 2019 – December 2020
+   Master of Science in Analytics
+* GPA: 4.00/4.00
+
+   University of Illinois at Urbana-Champaign 				                August 2015 - December 2018
+   Bachelor of Science in Statistics and Minor in Computer Science            
+* Certificate in Data Science
+	
+SKILLS
+   
+Machine Learning Algorithms: Bagged Ensemble, Neural Network (Convolutional, Deep layers), Decision Tree, Gaussian Mixture Model (Expectation Maximization), K-Means, Regression (Lasso, Linear, Logistic, Ridge), Random Forest
+Languages: Python (dash, matplotlib, numpy, pandas, sklearn, tensorflow.keras), SQL, VBA
+ 
+Software: Azure Machine Learning Studio, Command Prompt, Excel, Git and GitHub, Jupyter Notebooks, Power BI
+
+
+EXPERIENCE
+Expeditors International						    		                    June 2019 - Present
+       Business Intelligence Developer                							            
+* Developing reports in Style Studio with backend DB2 and SQL Server queries for regional KPI monitoring
+* Automating ETL process using Python to allow for seamless updates to Power BI dashboards, reducing manual work for data analysts by over 10 hours a month
+* Extracting and cleansing data from over 100 different files with 1.25 million rows of data using Power Query
+* Designing interactive dashboards in Power BI for customer KPI monitoring
+
+SWC Technology Partners							         	            June 2018 - August 2018
+       Data Analyst Intern                							            
+* Trained a boosted decision tree model in Azure Machine Learning Studio to predict project estimate accuracy
+* Identified actionable insights within the data using R to identify opportunities for project improvement
+* Reconstructed queries using new graph database feature of SQL Server to shave run-time down by 20%
+
+PROJECTS
+   Python Machine Learning Implementations
+* Implemented popular machine learning algorithms in Python using NumPy, Pandas, and SciPy
+* Applied Object-Oriented Design principles, version control, and vectorization to streamline the development of fast, reusable modules
+* Algorithms: Decision Tree, Deep Neural Network, Gaussian Mixture Model, K-Means, Linear Regression, Logistic Regression, Random Forest, and Ridge Regression
