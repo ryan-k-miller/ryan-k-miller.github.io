@@ -10,6 +10,8 @@
 
 - [Popular Machine Learning Algorithm Implementations](/ml)  
 - [Using PITCHf/x Data to Visualize Pitches and Predict Strikes](/pdf/Baseball Strike Prediction Poster.pdf)
+- SQL Query Generator
+- Automated Stock Trader using Machine Learning
 
 ---
 <a name="edu"/>
@@ -33,20 +35,17 @@ _Deep Learning Specialization_
 - [Improving Deep Neural Networks: Hyperparameter tuning, Regularization, and Optimization](/pdf/2. Improving Deep Neural Networks.pdf)
 - [Structuring Machine Learning Projects](/pdf/3. Structuring Machine Learning Projects.pdf)
 
-### Performance Excellence
-- [Lean Six Sigma Yellow Belt](/pdf/Yellow Belt Lean Six Sigma.pdf)
-
 ---
 <a name="exp"/>
 ## EXPERIENCE
 ### Expeditors International            							            
 _Associate Business Intelligence Developer_    
 - June 2019- Present
+- Developed SQL Query Generator tool using Python's pandas and dash packages reducing the time to write simple to medium-complexity SQL queries by 80-95%  
+-	Automated ETL process using Python to allow for seamless updates to Power BI dashboards, reducing manual work for data analysts by over 10 hours a month
+- Automated data preparation and separation using both Python and Excel's Power and VBA for multiple departments, removing dozens of hours of work a month
 -	Developing reports in Style Studio with backend DB2 and SQL Server queries for regional KPI monitoring
--	Automating ETL process using Python to allow for seamless updates to Power BI dashboards, reducing manual work for data analysts by over 10 hours a month
--	Extracting and cleansing data from over 100 different files with 1.25 million rows of data using Power Query
 -	Creating interactive dashboards in Power BI for KPI monitoring, reducing the need for manual correspondence with customers
-
 
 ### SWC Technology Partners
 _Data Analyst Intern_ 
@@ -57,18 +56,17 @@ _Data Analyst Intern_
 
 ---
 ## SKILLS
-### Machine Learning
--	Classification: Decision Tree, Feed-Forward Neural Network, Logistic Regression, and Random Forest
--	Regression: Lasso Regression, Linear Regression, and Ridge Regression
--	Clustering: Gaussian Mixture Model, and K-Means
+### Machine Learning Algorithms:
+- Bagged Ensemble, Neural Network (DNN, CNN), Decision Tree, Gaussian Mixture Model (Expectation Maximization), K-Means, Regression (Lasso, Linear, Logistic, Ridge), Random Forest  
 
-### Technology
--	Platforms: Excel, Git, Github, Jupyter, Power BI, RStudio, SQL Server Management Studio
--	Languages: Python (Matplotlib, NumPy, Pandas, Scikit-learn, Tensorflow.Keras), SQL, and VBA
+### Languages:
+- Python (Dash, Matplotlib, NumPy, Pandas, Scikit-learn, Tensorflow.Keras), SQL, and VBA  
 
-### Interpersonal
--	Soft Skills: Consulting with clients, presenting findings to both technical and non-technical audiences, balancing multiple projects, analyzing problems and developing solutions, and handling pressure
+### Software:
+-  Azure Machine Learning Studio, Command Prompt, Excel (Power Query, VBA), Git and GitHub, Jupyter Notebooks, Power BI  
 
+### Interpersonal:
+- Consulting with clients, presenting findings to both technical and non-technical audiences, balancing multiple projects, analyzing problems and developing solutions
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
