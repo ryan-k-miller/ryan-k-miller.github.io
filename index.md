@@ -10,8 +10,8 @@
 
 - [Popular Machine Learning Algorithm Implementations](/ml)  
 - [Using PITCHf/x Data to Visualize Pitches and Predict Strikes](/pdf/Baseball Strike Prediction Poster.pdf)
+- [Stock Price Prediction App](https://github.com/ryan-kp-miller/Stock-Price-Prediction-App)
 - SQL Query Generator
-- Automated Stock Trader using Machine Learning
 
 ---
 <a name="edu"/>
