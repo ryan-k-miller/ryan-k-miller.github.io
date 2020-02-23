@@ -41,7 +41,6 @@ _Deep Learning Specialization_
 ### Expeditors International            							            
 _Associate Business Intelligence Developer_    
 - June 2019- Present
-
 -	Researched, designed, and implemented a SQL Query Generator tool using Python’s pandas and dash packages, reducing the time to write simple to medium-complexity SQL queries by 70-100%
 -	Collaborated with multiple departments and branches throughout the Midwest to create custom tools using Python, Pascal, SQL, and Excel’s Power Query and VBA, automating over 100 hours of work a month
 -	Developed automated reporting tools in Style Studio, SQL, and Power BI for regional KPI monitoring
