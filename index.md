@@ -41,11 +41,10 @@ _Deep Learning Specialization_
 ### Expeditors International            							            
 _Associate Business Intelligence Developer_    
 - June 2019- Present
-- Developed SQL Query Generator tool using Python's pandas and dash packages reducing the time to write simple to medium-complexity SQL queries by 80-95%  
--	Automated ETL process using Python to allow for seamless updates to Power BI dashboards, reducing manual work for data analysts by over 10 hours a month
-- Automated data preparation and separation using both Python and Excel's Power and VBA for multiple departments, removing dozens of hours of work a month
--	Developing reports in Style Studio with backend DB2 and SQL Server queries for regional KPI monitoring
--	Creating interactive dashboards in Power BI for KPI monitoring, reducing the need for manual correspondence with customers
+
+-	Researched, designed, and implemented a SQL Query Generator tool using Python’s pandas and dash packages, reducing the time to write simple to medium-complexity SQL queries by 70-100%
+-	Collaborated with multiple departments and branches throughout the Midwest to create custom tools using Python, Pascal, SQL, and Excel’s Power Query and VBA, automating over 100 hours of work a month
+-	Developed automated reporting tools in Style Studio, SQL, and Power BI for regional KPI monitoring
 
 ### SWC Technology Partners
 _Data Analyst Intern_ 
