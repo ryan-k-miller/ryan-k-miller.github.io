@@ -10,7 +10,6 @@
 
 - [Strike Prediction and Pitch Visualization with PITCHf/x Data](/pdf/Baseball Strike Prediction Poster.pdf)
 - [Stock Price Prediction App](https://github.com/ryan-kp-miller/Stock-Price-Prediction-App)
-- SQL Query Generator
 - [Popular Machine Learning Algorithm Implementations](/ml)  
 
 ---
