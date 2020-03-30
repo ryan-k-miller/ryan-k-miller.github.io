@@ -8,6 +8,7 @@
 <a name="dsp"/>
 ## Data Science Projects
 
+- [Chicago Crime Analysis](/chicago_crime)
 - [Strike Prediction and Pitch Visualization with PITCHf/x Data](/pdf/Baseball Strike Prediction Poster.pdf)
 - [Stock Price Prediction App](https://github.com/ryan-kp-miller/Stock-Price-Prediction-App)
 - [Popular Machine Learning Algorithm Implementations](/ml)  
@@ -45,7 +46,7 @@ _Associate Business Intelligence Developer_
 -	Developed automated reporting tools in Style Studio, SQL, and Power BI for regional KPI monitoring
 
 ### SWC Technology Partners
-_Data Analyst Intern_ 
+_Data Analyst Intern_
 - June 2018 - August 2018
 - Trained a boosted decision tree model in Azure Machine Learning Studio to predict project estimate accuracy
 - Identified actionable insights within the data using R to identify opportunities for project improvement
