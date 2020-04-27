@@ -54,8 +54,8 @@ _Data Analyst Intern_
 
 ---
 ## SKILLS
-### Machine Learning Algorithms:
-- Bagged Ensemble, Neural Network (DNN, CNN), Decision Tree, Gaussian Mixture Model (Expectation Maximization), K-Means, Regression (Lasso, Linear, Logistic, Ridge), Random Forest  
+### Analytics: 
+- Machine Learning, Classification, Regression, Clustering, Deep Learning, Exploratory Data Analysis, Data Visualization, Descriptive Statistics, Data Preprocessing, Automation
 
 ### Languages:
 - Python (Dash, Matplotlib, NumPy, Pandas, Scikit-learn, Tensorflow.Keras), SQL, and VBA  
