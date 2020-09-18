@@ -34,11 +34,14 @@ _Bachelor of Science in Statistics and Minor in Computer Science_
 <a name="exp"/>
 ## EXPERIENCE
 ### Expeditors International            							            
-_Associate Business Intelligence Developer_    
+_Business Intelligence Developer_    
 - June 2019- Present
--	Researched, designed, and implemented a SQL Query Generator tool using Python’s pandas and dash packages, reducing the time to write simple to medium-complexity SQL queries by 70-100%
--	Collaborated with multiple departments and branches throughout the Midwest to create custom tools using Python, Pascal, SQL, and Excel’s Power Query and VBA, automating over 150 hours of work a month
--	Developed automated reporting tools in Style Studio, SQL, and Power BI for regional KPI monitoring
+- Built data pipelines using Python and scheduled them using Airflow and Windows Task Scheduler
+- Automated over 200 hours of work a month using Python, Pascal, SQL, and Excel’s Power Query and VBA
+- Summarized and presented quantitative data with Power BI dashboards to facilitate data-driven decision making
+- Developed and optimized SQL queries to enable the operations departments to make data-driven decisions
+- Implemented a SQL Query Generator tool using Python that reduces the time to write SQL queries by 70-100% 
+
 
 ### SWC Technology Partners
 _Data Analyst Intern_
@@ -50,13 +53,13 @@ _Data Analyst Intern_
 ---
 ## SKILLS
 ### Analytics: 
-- Machine Learning, Classification, Regression, Clustering, Deep Learning, Exploratory Data Analysis, Data Visualization, Descriptive Statistics, Data Preprocessing, Automation
+- Machine Learning, Statistical Learning, Regression Analysis, Statistical Inference, Data Visualization, Data Preprocessing, Database Querying, Source Control, Hypothesis Testing
 
 ### Languages:
-- Python (Dash, Matplotlib, NumPy, Pandas, Scikit-learn, Tensorflow.Keras), SQL, and VBA  
+- Python (Airflow, Dash, Matplotlib, NumPy, Pandas, Scikit-Learn, Keras), R, SQL, VBA  
 
 ### Software:
--  Azure Machine Learning Studio, Command Prompt, Excel (Power Query, VBA), Git and GitHub, Jupyter Notebooks, Power BI  
+-  Azure ML Studio, Excel, Git, GitHub, Jupyter Notebooks, Power BI, Relational Databases, RStudio 
 
 ### Interpersonal:
 - Consulting with clients, presenting findings to both technical and non-technical audiences, balancing multiple projects, analyzing problems and developing solutions
