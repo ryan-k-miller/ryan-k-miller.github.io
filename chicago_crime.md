@@ -2,7 +2,7 @@
 
 Here I performed an analysis of crime within Chicago based on publicly provided data from the city of Chicago. My main goal was to learn more about crime throughout Chicago by exploring the data and then to build a dashboard using Power BI to allow others to also explore the data. My secondary goal was to create a machine learning model to predict whether a new crime will get an arrest, so I could gain some experience applying machine learning to real-world data. Unfortunately, I wasn't able to achieve a significant increase over the baseline accuracy (covered in the [ML Results](#ml-results) section). But I was able to build an interactive dashboard, shown below, and included instructions on how to set up the data source in the [Dashboard Setup](#dashboard-setup) section.
 
-![overview_screenshot](Images/Overview_Screenshot.PNG)
+![overview_screenshot](images/Overview_Screenshot.PNG)
 
 ## Overview
 
