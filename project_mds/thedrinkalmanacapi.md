@@ -6,7 +6,7 @@ The Drink Almanac helps you save money on expensive drinks by showing you the in
 
 I created a REST API to allow users to easily create an account and save drinks for later. The documentation is automatically generated using Swagger and can be seen at [TheDrinkAlmanacAPI.herokuapp.com](https://thedrinkalmanacapi.herokuapp.com).
 
-![API Documentation Page](screenshots/docs.png)
+![API Documentation Page](images/thedrinkalmanacapi_docs.png)
 
 ## Built With
 
