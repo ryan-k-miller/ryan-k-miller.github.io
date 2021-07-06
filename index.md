@@ -14,7 +14,7 @@
 
 ### Data Science Projects
 
-- [Chicago Crime Analysis](/chicago_crime)
+- [Chicago Crime Analysis](/project_mds/chicago_crime)
 - [Employee Attrition Analysis](https://github.com/ryan-kp-miller/Employee-Attrition-Analysis/blob/master/Employee_Attrition_Analysis.ipynb)
 - [Strike Prediction and Pitch Visualization with PITCHf/x Data](/pdf/Baseball Strike Prediction Poster.pdf)
 - [Stock Price Prediction App](/project_mds/stock_price)
