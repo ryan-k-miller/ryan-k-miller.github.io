@@ -1,18 +1,24 @@
 ## Table of Contents
 
-1. [Data Science Projects](#dsp)  
+1. [Personal Projects](#prj)  
 2. [Education](#edu)  
 3. [Experience](#exp)  
 
 ---
-<a name="dsp"/>
-## Data Science Projects
+<a name="prj"/>
+## Personal Projects
+### Web Development
+
+- [The Drink Almanac](/project_mds/thedrinkalmanac.md)
+- [The Drink Almanac API](/project_mds/thedrinkalmanacapi.md)
+
+### Data Science Projects
 
 - [Chicago Crime Analysis](/chicago_crime)
 - [Employee Attrition Analysis](https://github.com/ryan-kp-miller/Employee-Attrition-Analysis/blob/master/Employee_Attrition_Analysis.ipynb)
 - [Strike Prediction and Pitch Visualization with PITCHf/x Data](/pdf/Baseball Strike Prediction Poster.pdf)
-- [Stock Price Prediction App](/stock_price)
-- [Popular Machine Learning Algorithm Implementations](/ml)  
+- [Stock Price Prediction App](/project_mds/stock_price)
+- [Popular Machine Learning Algorithm Implementations](/project_mds/ml)  
 
 ---
 <a name="edu"/>
