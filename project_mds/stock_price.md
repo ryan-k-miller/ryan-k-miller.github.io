@@ -5,7 +5,7 @@ different technology companies. It also uses machine learning to predict today's
 closing stock price for each of the companies.
 
 
-![screenshot](images/example.PNG)
+![screenshot](../images/example.PNG)
 
 
 ## Getting Started

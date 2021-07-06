@@ -2,7 +2,7 @@
 
 Here I performed an analysis of crime within Chicago based on publicly provided data from the city of Chicago. My main goal was to learn more about crime throughout Chicago by exploring the data and then to build a dashboard using Power BI to allow others to also explore the data. My secondary goal was to create a machine learning model to predict whether a new crime will get an arrest, so I could gain some experience applying machine learning to real-world data. Unfortunately, I wasn't able to achieve a significant increase over the baseline accuracy (covered in the [ML Results](#ml-results) section). But I was able to build an interactive dashboard, shown below, and included instructions on how to set up the data source in the [Dashboard Setup](#dashboard-setup) section.
 
-![overview_screenshot](images/Overview_Screenshot.PNG)
+![overview_screenshot](../images/Overview_Screenshot.PNG)
 
 ## Overview
 
@@ -96,7 +96,7 @@ python data_preprocessing.py
 
 After creating the data source, open the dashboard and go into the query editor. In the Source step of the query, change the data source file path to the path of the crimes_cleaned.csv file.
 
-![Data_Source_File_Path_Screenshot](images/Data_Source_File_Path_Screenshot.PNG)
+![Data_Source_File_Path_Screenshot](../images/Data_Source_File_Path_Screenshot.PNG)
 
  Finally, click Close and Apply, and once the query is done refreshing, the dashboard will be ready to go!
 
