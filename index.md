@@ -42,11 +42,11 @@ _Bachelor of Science in Statistics and Minor in Computer Science_
 ### Expeditors International            							            
 _Business Intelligence Developer_    
 - June 2019- Present
-- Built data pipelines using Python and scheduled them using Airflow and Windows Task Scheduler
-- Automated over 200 hours of work a month using Python, Pascal, SQL, and Excel’s Power Query and VBA
+- Designs and implements reliable, documented, and tested ETL pipelines using Python and Apache Airflow
+- Automated over 1,000 hours of work/month through data-entry scripts, data pipelines, and Excel workflows
+- Implemented a SQL Query Generator tool using Python that reduces the time to write SQL queries by 70-100% 
 - Summarized and presented quantitative data with Power BI dashboards to facilitate data-driven decision making
 - Developed and optimized SQL queries to enable the operations departments to make data-driven decisions
-- Implemented a SQL Query Generator tool using Python that reduces the time to write SQL queries by 70-100% 
 
 
 ### SWC Technology Partners
@@ -58,14 +58,17 @@ _Data Analyst Intern_
 
 ---
 ## SKILLS
-### Analytics: 
-- Machine Learning, Statistical Learning, Regression Analysis, Statistical Inference, Data Visualization, Data Preprocessing, Database Querying, Source Control, Hypothesis Testing
+### Backend:
+- Python, Flask, JWT, SQLAlchemy, SQL, Postgres, Pandas, Pytest
 
-### Languages:
-- Python (Airflow, Dash, Matplotlib, NumPy, Pandas, Scikit-Learn, Keras), R, SQL, VBA  
+### Frontend
+- JavaScript, Node.js, React.js, Axios, Bootstrap, HTML, CSS
+
+### Analytics: 
+- Python, Scikit-Learn, Keras, Pandas, Numpy, Machine Learning, Statistical Learning, Regression Analysis, Statistical Inference, Data Visualization, Data Preprocessing
 
 ### Software:
--  Azure ML Studio, Excel, Git, GitHub, Jupyter Notebooks, Power BI, Relational Databases, RStudio 
+-  VS Code, Git, GitHub, Power BI, Relational Databases (DB2, Postgres) 
 
 ### Interpersonal:
 - Consulting with clients, presenting findings to both technical and non-technical audiences, balancing multiple projects, analyzing problems and developing solutions
