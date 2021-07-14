@@ -59,7 +59,7 @@ _Data Analyst Intern_
 ---
 ## SKILLS
 ### Backend:
-- Python, Flask, JWT, SQLAlchemy, SQL, Postgres, Pandas, Pytest
+- Python, Django, Flask, Flask-RESTX, JWT, SQLAlchemy, SQL, Postgres, Pandas, Pytest
 
 ### Frontend
 - JavaScript, Node.js, React.js, Axios, Bootstrap, HTML, CSS
